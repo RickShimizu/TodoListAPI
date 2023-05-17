@@ -1,9 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "todos": [
+    {
+      "id": 0.7302314701034538,
+      "title": "Tomar Banho",
+      "time": "1",
+      "done": true
+    }
+  ]
 }
